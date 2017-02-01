@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: #eee8d5;
+  text-align: center;
+  font-family: cursive;
+  color: #6c71c4;
+}
+
+h1 {
+  color: #cb4b16;
+}
+
+h2 {
+  color: #859900;
+}
+
+.all {
+  height: auto;
+}
