@@ -1,13 +1,13 @@
 body {
   margin: 0;
   background-color: #eee8d5;
-  text-align: center;
   font-family: cursive;
   color: #6c71c4;
 }
 
 h1 {
   color: #cb4b16;
+  text-align: center;
 }
 
 h2 {
@@ -16,4 +16,52 @@ h2 {
 
 .all {
   height: auto;
+}
+
+.social {
+  position: relative;
+  text-align: left;
+  margin-left: 25%;
+}
+
+.imp {
+  position: relative;
+  text-align: right;
+  margin-right: 25%;
+}
+
+.fch {
+  position: relative;
+  text-align: left;
+  margin-left: 25%;
+}
+
+.redd {
+  position: relative;
+  text-align: right;
+  margin-right: 25%;
+}
+
+.socialtext {
+  position: relative;
+  float: left;
+  margin-left: 25%;
+}
+
+.imptext {
+  position: relative;
+  float: right;
+  margin-right: 25%;
+}
+
+.fchtext {
+  position: relative;
+  float: left;
+  margin-left: 25%
+}
+
+.reddhead {
+  position: relative;
+  float: right;
+  margin-right: 25%;
 }
